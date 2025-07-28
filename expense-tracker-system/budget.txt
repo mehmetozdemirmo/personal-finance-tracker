@@ -1,0 +1,7 @@
+Food	500
+Housing	1200
+Transportation	300
+Education	200
+Entertainment	150
+Shopping	250
+Other	100
